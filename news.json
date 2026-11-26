@@ -1,0 +1,352 @@
+[
+  {
+    "id": 1,
+    "region": "Middle East",
+    "region_detail": "Gulf",
+    "field": "conflict",
+    "headline": "Two tankers hit mines in Hormuz",
+    "detail": "Iran says two tankers struck mines and caught fire",
+    "source": "Reuters",
+    "time_utc": "10:11"
+  },
+  {
+    "id": 2,
+    "region": "Middle East",
+    "region_detail": "Gulf",
+    "field": "energy",
+    "headline": "Houthis claim Ras Tanura strike",
+    "detail": "Houthi spokesman says attack caused fires at refinery",
+    "source": "Reuters",
+    "time_utc": "16:59"
+  },
+  {
+    "id": 3,
+    "region": "Middle East",
+    "region_detail": "Levant",
+    "field": "conflict",
+    "headline": "Israeli strike kills Hamas chief",
+    "detail": "Muhammad Abu al-Awf killed with wife, two daughters",
+    "source": "Reuters",
+    "time_utc": "11:24"
+  },
+  {
+    "id": 4,
+    "region": "Middle East",
+    "region_detail": "Gulf",
+    "field": "diplomacy",
+    "headline": "US tells citizens to leave Iran",
+    "detail": "Alert warns hostilities could escalate rapidly",
+    "source": "AP",
+    "time_utc": "09:13"
+  },
+  {
+    "id": 5,
+    "region": "Middle East",
+    "region_detail": "Gulf",
+    "field": "conflict",
+    "headline": "Coalition strikes Hodeidah port",
+    "detail": "Coalition says it hit port and targets in Saada",
+    "source": "Reuters",
+    "time_utc": "02:21"
+  },
+  {
+    "id": 6,
+    "region": "Middle East",
+    "region_detail": "Gulf",
+    "field": "conflict",
+    "headline": "Houthis advance toward Aden",
+    "detail": "Fighters mass 50 miles north of Yemeni capital",
+    "source": "Reuters",
+    "time_utc": "00:00"
+  },
+  {
+    "id": 7,
+    "region": "Middle East",
+    "region_detail": "Levant",
+    "field": "justice",
+    "headline": "Judges urge dropping case",
+    "detail": "Court says Case 4000 conviction looks unlikely",
+    "source": "CNN",
+    "time_utc": "12:30"
+  },
+  {
+    "id": 8,
+    "region": "Middle East",
+    "region_detail": "Levant",
+    "field": "diplomacy",
+    "headline": "Board warns Gaza truce may collapse",
+    "detail": "Report says Israel, Hamas fell far short of deal",
+    "source": "Al Jazeera",
+    "time_utc": "17:54"
+  },
+  {
+    "id": 9,
+    "region": "Europe",
+    "region_detail": "Eastern Europe",
+    "field": "conflict",
+    "headline": "Poland plans no-fly zone near Ukraine",
+    "detail": "Zone lets forces shoot down Russian aircraft",
+    "source": "Reuters",
+    "time_utc": "19:22"
+  },
+  {
+    "id": 10,
+    "region": "Europe",
+    "region_detail": "Eastern Europe",
+    "field": "politics",
+    "headline": "Ukraine seeks 115 billion euros",
+    "detail": "Zelensky says 90 billion euros already secured",
+    "source": "Reuters",
+    "time_utc": "01:19"
+  },
+  {
+    "id": 11,
+    "region": "Europe",
+    "region_detail": "Eastern Europe",
+    "field": "conflict",
+    "headline": "Leak shows 490,334 Russian dead",
+    "detail": "BBC analysis finds at least 490,334 soldiers died",
+    "source": "BBC",
+    "time_utc": "00:56"
+  },
+  {
+    "id": 12,
+    "region": "Europe",
+    "region_detail": "Western Europe",
+    "field": "tech/AI",
+    "headline": "EU plans 50 billion quantum fund",
+    "detail": "Quantum Act aims for EU leadership by 2030",
+    "source": "Reuters",
+    "time_utc": "09:00"
+  },
+  {
+    "id": 13,
+    "region": "Europe",
+    "region_detail": "Western Europe",
+    "field": "climate",
+    "headline": "EU Parliament votes to relax nature laws",
+    "detail": "Vote was 367 to 268 to review habitat rules",
+    "source": "Politico",
+    "time_utc": "13:00"
+  },
+  {
+    "id": 14,
+    "region": "Europe",
+    "region_detail": "Western Europe",
+    "field": "migration",
+    "headline": "Nearly 2,000 reach Canary Islands",
+    "detail": "Arrivals in one day break previous record",
+    "source": "AP",
+    "time_utc": "11:00"
+  },
+  {
+    "id": 15,
+    "region": "Europe",
+    "region_detail": "Western Europe",
+    "field": "science",
+    "headline": "Fungi protein beats drought",
+    "detail": "Gottingen team finds TRADE protein boosts drought tolerance",
+    "source": "Phys.org",
+    "time_utc": "08:00"
+  },
+  {
+    "id": 16,
+    "region": "United States",
+    "region_detail": "North America",
+    "field": "markets",
+    "headline": "Trump targets 14 with tariffs",
+    "detail": "China faces 20 percent, EU faces 15 percent",
+    "source": "Reuters",
+    "time_utc": "17:00"
+  },
+  {
+    "id": 17,
+    "region": "United States",
+    "region_detail": "North America",
+    "field": "markets",
+    "headline": "US inflation rises to 3.8 percent",
+    "detail": "October PCE rose 3.8 percent year on year",
+    "source": "AP",
+    "time_utc": "13:30"
+  },
+  {
+    "id": 18,
+    "region": "United States",
+    "region_detail": "North America",
+    "field": "markets",
+    "headline": "US growth revised up to 4.3 percent",
+    "detail": "Third-quarter GDP beat 3.5 percent forecast",
+    "source": "AP",
+    "time_utc": "13:30"
+  },
+  {
+    "id": 19,
+    "region": "United States",
+    "region_detail": "North America",
+    "field": "tech/AI",
+    "headline": "Nvidia shares fall 3.9 percent",
+    "detail": "Chip stock closes at 149.30 dollars",
+    "source": "Reuters",
+    "time_utc": "21:00"
+  },
+  {
+    "id": 20,
+    "region": "United States",
+    "region_detail": "North America",
+    "field": "disaster",
+    "headline": "Army detonates lead azide in Iowa",
+    "detail": "68 barrels detonated at Iowa ammunition plant",
+    "source": "AP",
+    "time_utc": "15:00"
+  },
+  {
+    "id": 21,
+    "region": "United States",
+    "region_detail": "North America",
+    "field": "disaster",
+    "headline": "Six die in Mississippi crash",
+    "detail": "Cessna 210 crashed into Gulf of Mexico",
+    "source": "AP",
+    "time_utc": "02:17"
+  },
+  {
+    "id": 22,
+    "region": "United States",
+    "region_detail": "North America",
+    "field": "culture",
+    "headline": "Trump pardons two turkeys",
+    "detail": "Freedom and Feathers pardoned at White House",
+    "source": "AP",
+    "time_utc": "01:04"
+  },
+  {
+    "id": 23,
+    "region": "United States",
+    "region_detail": "North America",
+    "field": "diplomacy",
+    "headline": "Trump hosts NATO chief Rutte",
+    "detail": "Meeting moved to 7 p.m. dinner at Mar-a-Lago",
+    "source": "Palm Beach Post",
+    "time_utc": "21:17"
+  },
+  {
+    "id": 24,
+    "region": "Asia-Pacific",
+    "region_detail": "East Asia",
+    "field": "space",
+    "headline": "Shenzhou-24 docks with Chinese station",
+    "detail": "Pakistani astronaut first foreign aboard Tiangong",
+    "source": "Reuters",
+    "time_utc": "04:56"
+  },
+  {
+    "id": 25,
+    "region": "Asia-Pacific",
+    "region_detail": "East Asia",
+    "field": "markets",
+    "headline": "South Korea stocks plunge 6.16 percent",
+    "detail": "Samsung falls 9.9 percent, SK Hynix 11.1",
+    "source": "Reuters",
+    "time_utc": "07:00"
+  },
+  {
+    "id": 26,
+    "region": "Asia-Pacific",
+    "region_detail": "South Asia",
+    "field": "politics",
+    "headline": "Bangladesh raises garment wage",
+    "detail": "Minimum wage rises to 139 dollars a month",
+    "source": "Reuters",
+    "time_utc": "06:01"
+  },
+  {
+    "id": 27,
+    "region": "Asia-Pacific",
+    "region_detail": "East Asia",
+    "field": "justice",
+    "headline": "China probes Shanghai chief",
+    "detail": "Chen Jining probed for discipline violations",
+    "source": "Reuters",
+    "time_utc": "01:31"
+  },
+  {
+    "id": 28,
+    "region": "Asia-Pacific",
+    "region_detail": "East Asia",
+    "field": "diplomacy",
+    "headline": "Boats collide near Senkaku",
+    "detail": "Chinese trawler hits two Japanese patrol boats",
+    "source": "BBC",
+    "time_utc": "12:15"
+  },
+  {
+    "id": 29,
+    "region": "Asia-Pacific",
+    "region_detail": "East Asia",
+    "field": "diplomacy",
+    "headline": "North Korea expels Swiss diplomat",
+    "detail": "Pyongyang orders Swiss office to close",
+    "source": "Reuters",
+    "time_utc": "04:50"
+  },
+  {
+    "id": 30,
+    "region": "Global",
+    "region_detail": "Africa",
+    "field": "conflict",
+    "headline": "RSF drones kill 19 in Sudan",
+    "detail": "Strikes hit Damazin and Roseires in Blue Nile",
+    "source": "Reuters",
+    "time_utc": "11:58"
+  },
+  {
+    "id": 31,
+    "region": "Global",
+    "region_detail": "Latin America",
+    "field": "justice",
+    "headline": "Colombia frees store hostages",
+    "detail": "All hostages rescued, one captor killed",
+    "source": "AFP",
+    "time_utc": "07:02"
+  },
+  {
+    "id": 32,
+    "region": "Global",
+    "region_detail": "Oceania",
+    "field": "diplomacy",
+    "headline": "Solomons signs Australia treaty",
+    "detail": "Treaty bars foreign military bases on islands",
+    "source": "AP",
+    "time_utc": "06:29"
+  },
+  {
+    "id": 33,
+    "region": "Global",
+    "region_detail": "Global",
+    "field": "climate",
+    "headline": "Pope criticises COP31 failure",
+    "detail": "Leo calls outcome troubling at Vatican audience",
+    "source": "Reuters",
+    "time_utc": "10:23"
+  },
+  {
+    "id": 34,
+    "region": "Global",
+    "region_detail": "Africa",
+    "field": "culture",
+    "headline": "Nollywood actor Pete Edochie dies",
+    "detail": "Edochie dies aged 79 after prostate cancer",
+    "source": "Guardian",
+    "time_utc": "05:27"
+  },
+  {
+    "id": 35,
+    "region": "Global",
+    "region_detail": "Africa",
+    "field": "sport",
+    "headline": "Hakimi leads CAF Player shortlist",
+    "detail": "Five finalists include Mane, Diaz, Saibari, Gueye",
+    "source": "CAF",
+    "time_utc": "14:00"
+  }
+]
